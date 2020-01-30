@@ -1,4 +1,3 @@
-# hw1
 var x;
 var y;
 var radius;
