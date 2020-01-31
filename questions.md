@@ -6,4 +6,7 @@ Question 2:
 "What’s the difference between fill and stroke?"
 Fill impacts the interior of the shape while stroke impacts the outline of the stroke.
 
-Question 3:
+Question 4: 
+"What is the keyboard shortcut to open the JavaScript console in Chrome on your system?"
+For my Mac, the keyboard shortcut is command + option + J 
+
