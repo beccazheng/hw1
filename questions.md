@@ -4,3 +4,6 @@ The numbers inside the parentheses are formally called 'arguments' which define 
 
 Question 2:
 "What’s the difference between fill and stroke?"
+Fill impacts the interior of the shape while stroke impacts the outline of the stroke.
+
+Question 3:
